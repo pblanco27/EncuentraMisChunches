@@ -55,7 +55,7 @@
 									</li>
 									<li>
 										El número telefónico y correo electrónico son los únicos datos de contacto de cada usuario.
-										Estos datos no pueden modificarse una vez hecho el registro; este debe estar seguro de los datos proporcionados a la hora de registrarse.
+										Estos se proporcionarán al momento de registrarse (el teléfono es opcional) y pueden modificarse una vez hecho el registro.
 									</li>
 									<li>
 										Encuentra Mis Chunches es de uso completamente gratuito. Nunca se realizará ningún cobro / solicitud de pago por parte del sistema.
