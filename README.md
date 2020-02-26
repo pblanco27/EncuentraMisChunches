@@ -1,4 +1,6 @@
-![#EncuentraMisChunches](https://raw.githubusercontent.com/pblanco27/EncuentraMisChunches/master/Aplicación/images/logo-black.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pblanco27/EncuentraMisChunches/master/Aplicación/images/logo-black.png">
+</p>
 
 **Una aplicación de origen costarricense, con el fin para reportar objetos que se han perdido o encontrado.**
 
