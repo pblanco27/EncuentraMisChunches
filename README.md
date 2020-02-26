@@ -1,8 +1,10 @@
-# EncuentraMisChunches
+![#EncuentraMisChunches](https://raw.githubusercontent.com/pblanco27/EncuentraMisChunches/master/Aplicación/images/logo-black.png)
 
-![EncuentraMisChunches](https://raw.githubusercontent.com/pblanco27/EncuentraMisChunches/master/Aplicación/images/logo-black.png)
+**Una aplicación de origen costarricense, con el fin para reportar objetos que se han perdido o encontrado.**
 
-Aplicación desarrollada en el curso de Computación y Sociedad, Instituto Tecnológico de Costa Rica, 2019.
+**Desarrollada en el Instituto Tecnológico de Costa Rica, 2019.**
 
-Desarrollado por:
-  Paolo Blanco y Uriel Vargas
+## Autores ✒️
+
+* **Paolo Blanco** - *Desarrollador* - [pblanco27](https://github.com/villanuevand)
+* **Uriel Vargas** - *Desarrollador* - [urielvr22](https://github.com/urielvr22)
